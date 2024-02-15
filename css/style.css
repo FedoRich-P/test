@@ -1,3 +1,8 @@
 body {
   background-color: antiquewhite;
 }
+
+.title {
+  display: block;
+  margin: 0 auto;
+}
